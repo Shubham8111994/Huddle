@@ -1,0 +1,53 @@
+#p1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#p2{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+h2{
+    padding-top: 4em;
+
+}    
+ span{
+     padding-left: 10em;
+     padding-right: 10em;
+ }
+ .button {
+    background-color: rgb(130, 228, 253);
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+  }
+  .button5 {border-radius: 40px;}
+
+  #d1{
+      margin-left: 15em;
+      margin-top: 4em;
+      background-image: url(huddle-landing-page-with-curved-sections-master/screen-mockups.jpg);
+      background-size: cover;
+  }
+  #d4{
+    background-image: url(huddle-landing-page-with-curved-sections-master/images/illustration-flowing-conversation.svg);
+    background-size: cover;
+  }
+  .button6{
+    background-color:white;
+    border: 2px solid rgb(10, 207, 233);
+    color: rgb(10, 207, 233);
+    padding: 20px;
+    text-align: center;
+    font-style: italic;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 40px;
+  }
